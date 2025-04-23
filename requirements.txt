@@ -1,5 +1,9 @@
+ffmpeg-python
 streamlit
 yt-dlp
 pydub
 openai-whisper
-google-generativeai 
+google-generativeai
+torch
+torchaudio
+torchvision 
